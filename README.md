@@ -18,3 +18,4 @@ improving my technical skills while gaining experience that I can use in a futur
 ## My Projects
 
 This section will showcase projects I've completed, including what I worked on, the challenges I encountered, and what I learned.
+[Midterm_ Security Assessment Proposal ---.pdf](https://github.com/user-attachments/files/34076477/Midterm_.Security.Assessment.Proposal.---.pdf)

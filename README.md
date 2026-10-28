@@ -18,4 +18,17 @@ improving my technical skills while gaining experience that I can use in a futur
 ## My Projects
 
 This section will showcase projects I've completed, including what I worked on, the challenges I encountered, and what I learned.
+
+### Security Assessment Report and Proposal
+
+For this project, I analyzed a healthcare data breach involving patient information being shared with people who should not have 
+had access to it. I examined how the breach happened, how it affected different people, and what security measures could have prevented it.
+
+One thing I enjoyed about this assignment was looking at the situation from different perspectives. I had to consider how the breach 
+affected patients, employees, and the company while also thinking about possible solutions.
+
+I recommended improvements such as limiting file permissions, automatically removing access after a conference, and providing employee training.
+
+This project helped me better understand how cybersecurity decisions affect both technology and the people who use it.
+
 [Midterm_ Security Assessment Proposal ---.pdf](https://github.com/user-attachments/files/34076477/Midterm_.Security.Assessment.Proposal.---.pdf)

@@ -31,4 +31,14 @@ I recommended improvements such as limiting file permissions, automatically remo
 
 This project helped me better understand how cybersecurity decisions affect both technology and the people who use it.
 
+#### My Approach and Methodology
+
+I started by reviewing the healthcare data breach scenario and identifying where security failures occurred. I looked at how different people were involved and how their actions affected the situation. Using my course materials and NIST AC-6 least privilege principles, I examined the security weaknesses and developed recommendations to reduce the risk of another breach.
+
+#### Tools and Resources Used
+
+- **Course materials:** Used to understand cybersecurity concepts and security controls.
+- **Google Search:** Used to double-check information and research relevant security concepts.
+- **NIST AC-6 (Least Privilege):** Used as a framework for evaluating access control weaknesses and recommending improvements.
+
 [View Full Security Assessment Report (PDF)](https://github.com/user-attachments/files/34076477/Midterm_.Security.Assessment.Proposal.---.pdf)

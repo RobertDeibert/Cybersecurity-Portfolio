@@ -31,4 +31,4 @@ I recommended improvements such as limiting file permissions, automatically remo
 
 This project helped me better understand how cybersecurity decisions affect both technology and the people who use it.
 
-[Midterm_ Security Assessment Proposal ---.pdf](https://github.com/user-attachments/files/34076477/Midterm_.Security.Assessment.Proposal.---.pdf)
+[View Full Security Assessment Report (PDF)](https://github.com/user-attachments/files/34076477/Midterm_.Security.Assessment.Proposal.---.pdf)
